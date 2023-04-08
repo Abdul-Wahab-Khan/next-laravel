@@ -10,8 +10,8 @@ First Part is the front end which is built in nextjs with SSG functionalities, w
 
 Project parts:
 
-- [Front end(Nextjs)](test)
-- [Back end (Laravel)](https://laravel.com/docs/container)
+- [Front end(Nextjs)](https://github.com/Abdul-Wahab-Khan/next-laravel-front.git)
+- [Back end (Laravel)](https://github.com/Abdul-Wahab-Khan/next-laravel-back.git)
 
 Download or clone the repositories and run `npm install` for nextjs and `composer install` for laravel project to install their dependencies.
 
